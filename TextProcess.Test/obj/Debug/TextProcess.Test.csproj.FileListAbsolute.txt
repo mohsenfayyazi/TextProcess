@@ -1,0 +1,9 @@
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\bin\Debug\TextProcess.Test.dll
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\bin\Debug\TextProcess.Test.pdb
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\bin\Debug\TextProcess.exe
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\bin\Debug\TextProcess.pdb
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\obj\Debug\TextProcess.Test.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\obj\Debug\TextProcess.Test.dll
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\TextProcess\TextProcess.Test\obj\Debug\TextProcess.Test.pdb

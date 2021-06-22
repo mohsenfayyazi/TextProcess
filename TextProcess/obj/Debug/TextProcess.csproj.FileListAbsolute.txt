@@ -1,0 +1,9 @@
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\bin\Debug\TextProcess.exe.config
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\bin\Debug\TextProcess.exe
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\bin\Debug\TextProcess.pdb
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\obj\Debug\TextProcess.csprojResolveAssemblyReference.cache
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\obj\Debug\TextProcess.Form1.resources
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\obj\Debug\TextProcess.Properties.Resources.resources
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\obj\Debug\TextProcess.csproj.GenerateResource.Cache
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\obj\Debug\TextProcess.exe
+c:\users\mohsen\documents\visual studio 2015\Projects\TextProcess\TextProcess\obj\Debug\TextProcess.pdb
